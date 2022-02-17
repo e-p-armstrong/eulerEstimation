@@ -1,0 +1,5 @@
+#Estimating something that actually isn't euler's number
+
+Included in this repo are a pair of programs I quickly wrote to estimate the sum of 1/n^2, with n -> infinity. This was a question asked of my Math 101 class near the end of a lecture, and I wrote the code pretty much as soon as I got home. I assumed that this would be Euler's number at the start (our prof stated that Euler came up with the solution to this), hence the repo name, but eh not everything works out the way you think it will. At least I pretty much got the right answer.
+
+Note: I did have to remind myself of what the question was online, it wasn't posted in our Brightspace. However my goddamn eyes involuntarily wandered, and I saw like the first one or two digits of the answer by accident -- though this was after I had written my code, so all that really happened was I cleared up a misconception I held about what was being asked (I had a +1 shift that I had deliberately included because I for some weird reason thought the sum did this too).
